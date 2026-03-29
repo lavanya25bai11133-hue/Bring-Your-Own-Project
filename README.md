@@ -19,3 +19,9 @@ VisionBridge uses a **U-Net architecture** to perform image-to-image translation
 * **Web Accessibility:** Helping users navigate color-coded websites.
 * **Education:** Assisting students in viewing scientific charts or historical maps.
 * **UI/UX Testing:** Allowing designers to simulate and then fix accessibility issues in their prototypes.
+## How to test the code
+* 1. Open the color_blindness.ipynb file.
+* 2. Run all the code.
+* 3. Then the web interface will come.
+* 4. Upload your image,Select your colour blindness type and then hit submit.
+* 5. You will get your results.
