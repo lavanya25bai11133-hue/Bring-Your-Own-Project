@@ -21,7 +21,8 @@ VisionBridge uses a **U-Net architecture** to perform image-to-image translation
 * **UI/UX Testing:** Allowing designers to simulate and then fix accessibility issues in their prototypes.
 ## How to test the code
 * 1. Download the color_blindness.ipynb file.
-* 2. Open it on Google colab and run all the code.
-* 3. Then the web interface will come.
-* 4. Upload your image,Select your colour blindness type and then hit submit.
-* 5. You will get your results.
+* 2. Upload the file on the google drive.
+* 3. Then Open it on Google colab and run all the code.
+* 4. Then the web interface will come.
+* 5. Upload your image,Select your colour blindness type and then hit submit.
+* 6. You will get your results.
